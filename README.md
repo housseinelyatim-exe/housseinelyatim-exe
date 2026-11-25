@@ -30,11 +30,11 @@ quest:       build things that are actually useful
 
 | | Item | Lore |
 |:-:|---|---|
-| 💎 | [**tunsl-edge**](https://github.com/housseinelyatim-exe/tunsl-edge) | Offline Tunisian Sign Language translator on an edge device |
 | 🧪 | [**hackcure-datasets**](https://github.com/housseinelyatim-exe/hackcure-datasets) | Medical Q&A dataset (EN/FR/Darija) relabeled for emergency triage |
 | 🗺️ | [**city-brain-notebooks**](https://github.com/housseinelyatim-exe/city-brain-notebooks) | One notebook per public dataset behind the City Brain |
-| ⚙️ | [**mini-projet-compilation**](https://github.com/housseinelyatim-exe/mini-projet-compilation) | Lexer and recursive predictive parser written in C |
-| 🏰 | [**IEEE-ENSI-SB-WEBSITE**](https://github.com/housseinelyatim-exe/IEEE-ENSI-SB-WEBSITE) | Website for the IEEE ENSI Student Branch |
+| 🌦️ | [**intro-dev-weather-starter**](https://github.com/housseinelyatim-exe/intro-dev-weather-starter) | Weather dashboard starter for the Software Dev 101 lab (IEEE ENSI CS SBC) |
+| 🛒 | [**QuickCart-E-Commerce**](https://github.com/housseinelyatim-exe/QuickCart-E-Commerce) | JavaScript e-commerce project |
+| 📅 | [**ProjetC-SystemeDeGestionDesReservations**](https://github.com/housseinelyatim-exe/ProjetC-SystemeDeGestionDesReservations) | Reservation management system in C |
 | 👓 | [**optima-optique**](https://github.com/housseinelyatim-exe/optima-optique) | TypeScript project |
 
 <div align="center">
