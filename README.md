@@ -23,6 +23,7 @@ quest:       build things that are actually useful
 <img src="assets/sec-inventory.svg" height="40"/>
 <br/><br/>
 <img src="assets/hotbar.svg" alt="Hotbar: JavaScript, TypeScript, Python, C, HTML, CSS, Git, Linux, LaTeX" width="560"/>
+<br/><br/>
 
 <img src="assets/sec-chest.svg" height="40"/>
 
